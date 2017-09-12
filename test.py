@@ -12,3 +12,7 @@ def NewAddisionAfterSecondCommit():
 
 def MethodAddedFromBranch():
     print "This is the method added from the branch named child"
+
+def AnotherMethodAddedFromBranch():
+    print " this is the method added from the child branch after the first methhod\
+            being successfully pulled to the master"
