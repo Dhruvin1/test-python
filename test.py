@@ -1,0 +1,2 @@
+def committed:
+    print "Committed"
